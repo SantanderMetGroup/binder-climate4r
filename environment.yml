@@ -5,8 +5,10 @@ channels:
 dependencies:
   #r dependencies
   - r-base             >=3.6.1,<4
+  - r-easyverification
   - r-loader           ==1.7.1
   - r-loader.2nc       ==0.1.1
+  - r-loader.ecoms
   - r-transformer      ==2.1.0
   - r-downscaler       ==3.3.2
   - r-visualizer       ==1.6.0
