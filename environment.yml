@@ -5,10 +5,10 @@ channels:
 dependencies:
   #r dependencies
   - r-base             >=3.6.1,<4
-  - r-easyverification
+  - r-easyverification ==0.4.4
   - r-loader           ==1.7.1
   - r-loader.2nc       ==0.1.1
-  - r-loader.ecoms
+  - r-loader.ecoms     ==1.4.6
   - r-transformer      ==2.1.0
   - r-downscaler       ==3.3.2
   - r-visualizer       ==1.6.0
@@ -16,6 +16,7 @@ dependencies:
   - r-climate4r.udg    ==0.2.4
   - r-value            ==2.2.2
   - r-loader.java      ==1.1.1
+  - r-convertr
   - r-irkernel         ==1.2
   - jupyter_nbextensions_configurator ==0.4.1
   - nbgitpuller    ==0.10.1 # required to decouple binder and repo
