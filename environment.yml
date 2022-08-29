@@ -17,7 +17,7 @@ dependencies:
   - r-value            ==2.2.2
   - r-loader.java      ==1.1.1
   - r-convertr         ==0.2.0
-  - r-droughtr
+  - r-drought4r
   - r-irkernel         ==1.2
   - jupyter_nbextensions_configurator ==0.4.1
   - nbgitpuller    ==0.10.1 # required to decouple binder and repo
